@@ -926,4 +926,4 @@ client.on('messageCreate', message => {
 });
 
 // Login to Discord
-client.login("MTQxNDczNTY3MTk4NTQ0Mjg4Ng.GHbRQb.-sLfTY3Y-7Q6lbwy37vODNyVVwdUs3prkiVGew");
+client.login("MTQxNDczNTY3MTk4NTQ0Mjg4Ng.Gm432x.AnQs2MMmNqeuBgB5BVEGNjgpCXtY1u0N7Cu6XU");
