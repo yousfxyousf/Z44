@@ -104,7 +104,7 @@ async function checkWebhook(url, webhookLabel) {
 // Discord events
 client.on("ready", () => {
   console.log(`${client.user.username} ready!`);
-  client.user.setActivity(`𝐆𝐚𝐧𝐠𝐗𝐞𝐫𝐞𝐜𝐚`, { type: "STREAMING", url: "https://www.youtube.com/watch?v=x1qUmtpVQkg&t=24s" });
+  client.user.setActivity(`Z4444`, { type: "STREAMING", url: "https://www.youtube.com/watch?v=x1qUmtpVQkg&t=24s" });
   
   // Voice channel connection
   setInterval(() => {
